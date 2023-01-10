@@ -7,6 +7,7 @@
 #pragma warning (disable : 6031)
 #pragma warning (disable : 6289)
 
+
 void displayRandomJobs(int ws);
 const char* chooseDay(int ws);
 void manageJob(int c, int ws);
